@@ -2,7 +2,7 @@
 
 // pegando elementos do HTML
 let uploadInput = document.querySelector("#upload");
-let btnAdd = document.querySelector("#addImage");
+let btnAdd = document.querySelector("#addImagem");
 let galeria = document.querySelector(".galeria");
 let carrossel = document.querySelector(".carrossel");
 
